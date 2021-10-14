@@ -1,4 +1,5 @@
 # SCP Foundation DataBase
+Лучше оставлять комментарии тут -> https://drive.google.com/drive/folders/1sNLo8G-ukvNKEzT7On84ftuMjrbzmEPS?usp=sharing
 <h2>Высокоуровневое описание</h2>
 Данный проект представляет из себя веб-приложения для работы с базой данных фонда SCP, в которой будут храниться данные об объектах фонда.
 
