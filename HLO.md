@@ -1,5 +1,5 @@
 # SCP Foundation DataBase
-Лучше оставлять комментарии тут -> https://drive.google.com/drive/folders/1sNLo8G-ukvNKEzT7On84ftuMjrbzmEPS?usp=sharing
+Лучше оставлять комментарии тут -> https://docs.google.com/document/d/1xajOxDvRxdAf-DUyw_UjI_QHxAUSCE0ohk1XfGareW0/edit?usp=sharing
 <h2>Высокоуровневое описание</h2>
 Данный проект представляет из себя веб-приложения для работы с базой данных фонда SCP, в которой будут храниться данные об объектах фонда.
 
@@ -33,7 +33,7 @@
 3) Внешний вид и удобство поиска (от 0 до 3)
 
 Ссылка на сравнительную таблицу:
-https://drive.google.com/drive/folders/1sNLo8G-ukvNKEzT7On84ftuMjrbzmEPS?usp=sharing
+https://docs.google.com/spreadsheets/d/1bt7nIT6Yx39kR4Kt-9aOc-01BS2tVUzxn_P-1y_my6E/edit?usp=sharing
 
 <h2>Вывод</h2>
 В отличии от аналогов, у моего приложения не у всех пользователях будет возможность просматривать абсолютно всю БД. Также, у зарегестрированных пользователей моего приложения будет возможность отправлять заявки, а у сотрудников фонда их обрабатывать (так же внутри приложения).
